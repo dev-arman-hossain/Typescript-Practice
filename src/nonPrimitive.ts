@@ -19,6 +19,11 @@ let ArmanNameRoll: [string, number] = ["Arman", 45];
 
 let destination: [string, string, number] = ["Dhaka", "Chittagong", 150];
 
+console.log(coordinated);
+console.log(couple);
+console.log(ArmanNameRoll);
+console.log(destination);
+
 
 
 // reference type : object
@@ -37,7 +42,6 @@ let destination: [string, string, number] = ["Dhaka", "Chittagong", 150];
 
 
 // console.log(user);
-
 
 
 const user: {
