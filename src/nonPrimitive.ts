@@ -19,6 +19,8 @@ let ArmanNameRoll: [string, number] = ["Arman", 45];
 
 let destination: [string, string, number] = ["Dhaka", "Chittagong", 150];
 
+
+
 // reference type : object
 
 const user: {
