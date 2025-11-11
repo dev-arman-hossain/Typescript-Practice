@@ -24,11 +24,16 @@ let destination: [string, string, number] = ["Dhaka", "Chittagong", 150];
 // reference type : object
 
 const user: {
+    organization: "cyber 71"; //literal type
     firstName: string;
     middleName?:string; // optional type
     lastName: string;
 } = {
+    organization: "cyber 71",
     firstName: "cyber",
     middleName: "security",
     lastName: "hacker"
 }
+
+
+console.log(user);
